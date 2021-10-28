@@ -10,7 +10,7 @@ Install Huawei DevEco Studio and set up the DevEco Studio development environmen
 Download this Project and open DevEco Studio, click File> Open> Then select and open this Project • Click Build> Build App(s)/Hap(s)>Build Debug Hap(s) to compile the hap package.  Then Click Run> Run 'entry' to run the hap package.
 Note that you can choose to run the hap package on the simulator or the Huawei watch 3. If you run it on the watch, you need to configure the signature and certificate information in the project's File> Project Structure> Modules> Signing Configs.
 
-You need to add a source file (xxx) in the public static String downloadFile = "https://xxx" in entry/src/main/.../slice/MainAbilitySlice.java
+You need to add a download source file in the public static String downloadFile = " "; //TODO replace with a URL to download, in entry/src/main/.../slice/MainAbilitySlice.java
 
 # License
 The demo code is licensed under the Apache License, version 2.0.
