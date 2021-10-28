@@ -59,7 +59,7 @@ public class MainAbilitySlice extends AbilitySlice {
     private EventHandler threadHandler;
     private HiLogLabel label = new HiLogLabel(HiLog.LOG_APP, 0x0224F,"NetworkCalls"); //MY_MODULE=0x00201
 
-    public static String downloadFile = "";
+    public static String downloadFile = "https://xxx";
     private long startTime;
     private NetManager networkManager;
     private HttpURLConnection connection;
