@@ -9,28 +9,6 @@
   },
   "deviceConfig": {},
   "module": {
-    "reqPermissions": [
-      {
-        "usedScene": {
-          "when": "always",
-          "ability": [
-            "com.shakingearthdigital.harmonyos.speed.test.demo.MainAbility"
-          ]
-        },
-        "reason": "access the internet",
-        "name": "ohos.permission.INTERNET"
-      },
-      {
-        "usedScene": {
-          "ability": [
-            "com.shakingearthdigital.harmonyos.speed.test.demo.MainAbility"
-          ],
-          "when": "always"
-        },
-        "reason": "Check network connection type",
-        "name": "ohos.permission.GET_NETWORK_INFO"
-      }
-    ],
     "package": "com.shakingearthdigital.harmonyos.speed.test.demo",
     "name": ".MyApplication",
     "mainAbility": "com.shakingearthdigital.harmonyos.speed.test.demo.MainAbility",
@@ -64,5 +42,27 @@
         "launchType": "singleton"
       }
     ]
+  "reqPermissions": [
+      {
+        "usedScene": {
+          "when": "always",
+          "ability": [
+            "com.shakingearthdigital.harmonyos.speed.test.demo.MainAbility"
+          ]
+        },
+        "reason": "access the internet",
+        "name": "ohos.permission.INTERNET"
+      },
+      {
+        "usedScene": {
+          "ability": [
+            "com.shakingearthdigital.harmonyos.speed.test.demo.MainAbility"
+          ],
+          "when": "always"
+        },
+        "reason": "Check network connection type",
+        "name": "ohos.permission.GET_NETWORK_INFO"
+      }
+    ],  
   }
 }
