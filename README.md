@@ -12,6 +12,10 @@ Note that you can choose to run the hap package on the simulator or the Huawei w
 
 You need to add a source file (xxx) in the public static String downloadFile = "https://xxx" in entry/src/main/.../slice/MainAbilitySlice.java
 
+# License
+The demo code is licensed under the Apache License, version 2.0.
+All copyright belong to Lolay Inc.
+
 # Screenshots of demo
 
 ![BTspeed1](https://user-images.githubusercontent.com/88169365/139187631-2da6304e-6a29-45b0-a5cc-080fd032361f.png)
