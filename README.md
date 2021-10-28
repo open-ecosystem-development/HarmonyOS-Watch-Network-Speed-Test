@@ -1,1 +1,1 @@
-# Watch-Network-Speed-Demo
+# HarmonyOS-Watch-Network-Speed-Test-Demo
