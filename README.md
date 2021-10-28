@@ -1,7 +1,7 @@
 # HarmonyOS-Watch-Network-Speed-Test-Demo 
 
 # Introduction
-This demo provides the network speed test on Huawei HarmonyOS Watch 3. When an Android or HarmonyOS phone that has Huawei Health App installed is connected the watch through Bluetooth, the demo app measures the data speed of the Bluetooth connection. On the other hand, when the watch has WiFi connected, the demo app measures the data speed of the WiFi network.      
+This demo provides the network speed test on Huawei HarmonyOS Watch 3. When the watch is connected to an Android or HarmonyOS phone that has Huawei Health App installed through Bluetooth, the demo app measures the download speed from a xxMB source file via the Bluetooth connection. On the other hand, when the watch is connected to WiFi, the demo app measures the download speed from the source file via WiFi network.      
 
 # Installation requirements
 Install Huawei DevEco Studio and set up the DevEco Studio development environment. The DevEco Studio development environment needs to depend on the network environment. It needs to be connected to the network to ensure the normal use of the tool.The development environment can be configured according to the following two situations: 1) If you can directly access the Internet, just download the HarmonyOS SDK; 2) If the network cannot access the Internet directly, it can be accessed through a proxy server • Generate secret key and apply for certificate
