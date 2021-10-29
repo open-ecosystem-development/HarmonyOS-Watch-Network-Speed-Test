@@ -18,7 +18,8 @@ All copyright belong to Lolay Inc.
 
 # Screenshots of demo
 
-![BTspeed1](https://user-images.githubusercontent.com/88169365/139187631-2da6304e-6a29-45b0-a5cc-080fd032361f.png)
-![BTspeed2](https://user-images.githubusercontent.com/88169365/139187641-a8a90dfb-f353-42c3-b237-dde29289b189.png)
-![WiFispeed1](https://user-images.githubusercontent.com/88169365/139187658-38a36a43-598c-4bd4-841a-ac9309dddcf9.png)
-![WiFispeed2](https://user-images.githubusercontent.com/88169365/139187668-f6b8167e-dff5-4ea5-88ae-7f51d03d01f6.png)
+
+![BTdata3](https://user-images.githubusercontent.com/88169365/139357863-52848400-d375-4117-b85a-5f62743768a8.PNG)
+![BTdata2](https://user-images.githubusercontent.com/88169365/139357881-bcb57b87-0bc3-4754-930a-86fb3bc00947.PNG)
+![WFdata1](https://user-images.githubusercontent.com/88169365/139357909-0e971cf2-cb65-4d29-bdf0-d9e63c3a0a28.PNG)
+![WFdata2](https://user-images.githubusercontent.com/88169365/139357925-9bf0ef72-9afd-4d0a-aa66-2572cb0fcaec.PNG)
